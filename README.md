@@ -1,4 +1,4 @@
-#SA2 - Atividade 1 - Online  - Utilização do GIT e Angular/ Peterson Boone
+#SA2 - Atividade 1 - Online  - Utilização do GIT e Angular/ Peterson 
 
 # LhAngular
 
